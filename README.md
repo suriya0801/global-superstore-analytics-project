@@ -28,7 +28,7 @@ This project analyzes the Global Superstore dataset using SQL, Excel, and Power 
 ## 📂 Dataset
 
 - Dataset: Global Superstore
-- Records: ~51,000+
+- Records: 51,000+
 - Features include:
   - Orders
   - Customers
